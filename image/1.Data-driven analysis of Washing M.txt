@@ -1,0 +1,25 @@
+1.Data-driven analysis of Washing Machines for Optimal Purchase Decisions:
+- Conducted web scraping project to analyze washing machine data including brand, price, color, 
+and automation level. Extracted user reviews for comprehensive analysis. 
+- Enhanced data analysis and technical skills while providing valuable insights for informed 
+decision-making.
+ 
+
+2. A Comprehensive Examination of Insurance Premiums and Trends:
+- Identified a direct correlation between age, BMI, and insurance charges.
+- The majority of the people fall within overweight and obese BMI categories.
+- Smokers incur significantly higher charges.
+
+
+3. Web Scraping and Exploratory Data Analysis of 1,000 IMDb Movies:
+- Conducted web scraping to collect data on 1000 IMDb movies, followed by comprehensive 
+exploratory data analysis (EDA) to uncover trends in movie releases, ratings, and box office 
+performance.
+- Identified correlations between user ratings and Metascores and observed temporal trends in critical reception.
+
+
+4. Predictive Modelling for Customer Purchase based on Social Aid:
+-Developed and implemented a highly accurate predictive model that forecasted individual customer purchase behaviour based on different criteria such as age, country, gender, and salary.
+- The predictive model significantly improved marketing campaign efficiency by tailoring advertisements and promotions to specific age groups based on salary and region.
+
+
